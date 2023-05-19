@@ -16,6 +16,10 @@ public class CharaterTest {
 		System.out.println(ch3);
 		System.out.println((char)ch3);
 		
+	
+		char ch = '\uD55C';
+		System.out.println(ch);
+		
 	}
 
 }

@@ -6,7 +6,7 @@ public class OperatorTest {
 
 		int gameScore = 150;
 		//int lastScore = ++gameScore; //gameScore +=1; gameScoe +1;
-		int lastScore = gameScore++; //gameScore +=1; gameScoe +1;
+		int lastScore = gameScore++; 
 		
 		System.out.println(lastScore);
 		System.out.println(gameScore);

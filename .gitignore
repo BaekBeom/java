@@ -29,7 +29,7 @@ replay_pid*
 
 .metadata
 .metadata/*
-.metadata/.plugins/
+.metadata/.plugins/*
 bin/
 tmp/
 *.tmp

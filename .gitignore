@@ -27,7 +27,8 @@
 hs_err_pid*
 replay_pid*
 
-.metadata*
+.metadata
+.metadata/*
 bin/
 tmp/
 *.tmp

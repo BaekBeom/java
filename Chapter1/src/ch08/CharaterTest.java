@@ -17,7 +17,7 @@ public class CharaterTest {
 		System.out.println((char)ch3);
 		
 	
-		char ch = '\uD55C';
+		char ch = '\uD55C'; // 아스키 코드
 		System.out.println(ch);
 		
 	}

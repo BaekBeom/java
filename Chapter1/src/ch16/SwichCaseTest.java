@@ -24,7 +24,7 @@ public class SwichCaseTest {
 				day = -1;
 		
 		}
-		System.out.println(month + "월"+ day + "일 입니다.");
+		System.out.println(month + "월은"+ day + "일 입니다.");
 	}
 
 }
